@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**thevueguy/thevueguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jose Garrido, also known as **thevueguy**. 
 
-Here are some ideas to get you started:
+I'm a Bachelor of Science in Computer Engineer at [USB](https://usb.ve). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working at [Dialogs](https://dialogs.com). 
+
+Skilled in Javascript, Vue, Gridsome, PHP and Laravel. 
+
+Always looking for opportunities to learn, improve and share knowledge with others.
+
+## Stuff I do
+
+- 📃 I write a [blog about Vue/JS topics](https://thevueguy.com) at thevueguy.com.
+- 💻 I’m currently working at [Dialogs](https://dialogs.com).
+- 🗣️ I like to speak at meetups and presented a lightning talk at VueConf 2020.
+
+## How to reach me
+
+- 📧 Shoot me an email at jose@thevueguy.com
+- Reach out on Twitter [@thevueguy](https://twitter.com/thevueguy)
+- Reach out on Github [@thevueguy](https://github.com/thevueguy)
+- You can find me on my website [thevueguy.com](https://thevueguy.com)
