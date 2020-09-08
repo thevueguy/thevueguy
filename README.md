@@ -19,6 +19,6 @@ Always looking for opportunities to learn, improve and share knowledge with othe
 ## How to reach me
 
 - 📧 Shoot me an email at jose@thevueguy.com
-- Reach out on Twitter [@thevueguy](https://twitter.com/thevueguy)
-- Reach out on Github [@thevueguy](https://github.com/thevueguy)
-- You can find me on my website [thevueguy.com](https://thevueguy.com)
+- 🐦 Reach out on Twitter [@thevueguy](https://twitter.com/thevueguy)
+- 🐙 Reach out on Github [@thevueguy](https://github.com/thevueguy)
+- 🌎 You can find me on my website [thevueguy.com](https://thevueguy.com)
