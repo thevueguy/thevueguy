@@ -13,7 +13,7 @@ Always looking for opportunities to learn, improve and share knowledge with othe
 ## Stuff I do
 
 - 📃 I write a [blog about Vue/JS topics](https://thevueguy.com) at thevueguy.com.
-- 💻 I’m currently working at [Dialogs](https://dialogs.com).
+- 💻 I'm currently working at [Dialogs](https://dialogs.com).
 - 🗣️ I like to speak at meetups and presented a lightning talk at VueConf 2020.
 
 ## How to reach me
